@@ -13,14 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+title: Rudabega Art | Chris Nalty
+email: rudabegaart@gmail.com
+description:
 minimal_mistakes_skin: default
 search: true
 
@@ -53,39 +48,35 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Rudabega Art |<br>
+            Chris Nalty"
+  bio: "<br>"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  location: "New York City"
   links:
-    - label: "Website"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:rudabegaart@gmail.com"
+    - label: "Bluesky"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://bsky.app/profile/rudabegaart.bsky.social"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/rudabega_art/"
+
 
 footer:
   links:
-    - label: "Twitter"
+    - label: "BlueSky"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://bsky.app/profile/rudabegaart.bsky.social"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/rudabega_art/"
 
 defaults:
   # _posts
@@ -113,3 +104,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+collections:
+  series:
+    output: true
+    permalink: /series/:path/
+

@@ -1,9 +1,7 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Selected Works"
+    url: /selected-works/
+  - title: "Series"
+    url: /series/
+  - title: "Available Works"
+    url: /available-works/
