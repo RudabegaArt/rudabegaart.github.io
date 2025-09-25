@@ -29,6 +29,12 @@ gallery:
     title: "The Cliffs at Raven's Nest <br>
             9inx12in <br>
             2025"
+  - url: "/assets/images/maine-moments/[2025]Pallet_by_the_shed.png"
+    image_path: "/assets/images/maine-moments/[2025]Pallet_by_the_shed.png"
+    alt: "Pallet by the Shed"
+    title: "Pallet by the Shed <br>
+            12inx16in <br>
+            2025"
     
 
 ---
