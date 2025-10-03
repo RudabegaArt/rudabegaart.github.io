@@ -22,7 +22,8 @@ country journeys.
 Born 1995 in Columbia, Maryland  
 Resides and works in New York City and Addision, Maine
 ###### Selected Exhibitions
-<small>2025, Cape Split Schoolhouse Art Show
+<small>2025, *Cape Split Schoolhouse Art Show*, Addison, Maine  
+2025, *Predominately Black*, New York, New York
 ###### Collections
 <small>Chris Nalty features in various private collections across the United States
 

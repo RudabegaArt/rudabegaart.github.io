@@ -21,6 +21,12 @@ gallery:
     title: "Brooklyn Corner <br>
             20inx16in <br>
             2025"
+  - url: "/assets/images/[2025]The_Contract.png"
+    image_path: "/assets/images/[2025]The_Contract.png"
+    alt: "The Contract"
+    title: "The Contract <br>
+            12inx16in <br>
+            2025"
  
     
 
