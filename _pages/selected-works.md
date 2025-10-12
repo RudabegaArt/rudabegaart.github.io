@@ -27,7 +27,12 @@ gallery:
     title: "The Contract <br>
             12inx16in <br>
             2025"
- 
+  - url: "/assets/images/maine-moments/[2025]Evening_Driveway.png"
+    image_path: "/assets/images/maine-moments/[2025]Evening_Driveway.png"
+    alt: "Evening Driveway"
+    title: "Evening Driveway <br>
+            12inx16in <br>
+            2025" 
     
 
 ---
