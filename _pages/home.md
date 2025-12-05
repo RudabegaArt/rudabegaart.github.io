@@ -8,12 +8,14 @@ header:
 ---
 
 # Biography
+Chris Nalty is a New York based oil painter exploring the real through still life and the surreal. He began showing in 2025 in Addison, Maine and New York City.
 
-Chris Nalty is a New York and Maine based oil painter. His works explore modern America, 
-from its beautiful landscapes to the difficulties of contemporary life. Through thoughtful compositions 
-his works focus on capturing a moment in time that invites the viewer to reflect on experiences close to home,
-and to connect with the unfamiliar. He pulls on his experiences living on both coasts as well as multiple cross 
-country journeys. 
+His surreal works focus on exploring imagined worlds filled with strange creatures and robed figures. These creatures appear in scenes reminiscent of the contemporary world, creating a sense of mystery and unease. Nalty’s paintings use this mystery to evoke a reflective state, inviting the viewer to question.
+
+Nalty’s still lifes take on an explorative lens. He uses them to experiment on every aspect of painting: brushwork, composition, abstraction, sizing and surface. His works maintain a recognizable body through the strong separation of light and shadow that drive his compositions.
+
+Chris began his career exploring contemporary America in many places, vast landscapes and lonely city corners. He has appeared in group shows including “Predominately Black”, New York 2025, and “Schoodic Schoolhouse Annual Show”, Addison 2025.
+
 
 # CV
 

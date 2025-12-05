@@ -1,5 +1,5 @@
 ---
-title: "Maine Moments"
+title: "Maine Moments (2025)"
 permalink: /series/maine-moments/
 date: 2025-09-12
 category: series
@@ -41,7 +41,13 @@ gallery:
     title: "Evening Driveway <br>
             12inx16in <br>
             2025"
-        
+  - url: "/assets/images/maine-moments/[2025]Schoodic_Waves.png"
+    image_path: "/assets/images/maine-moments/[2025]Schoodic_Waves.png"
+    alt: "Schoodic Waves"
+    title: "Schoodic Waves <br>
+            12inx16in <br>
+            2025"
+                
 
 ---
 {% include gallery %}
