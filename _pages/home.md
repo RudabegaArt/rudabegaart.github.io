@@ -4,7 +4,7 @@ author_profile: true
 title: ""
 permalink: /
 header:
-    image: "/assets/images/maine-moments/[2025]Buoys_and_Fruit.jpg"
+    image: "/assets/images/awlo/[2026]relaxing.png"
 ---
 
 # Biography
