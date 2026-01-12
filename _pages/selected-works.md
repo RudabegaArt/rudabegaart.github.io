@@ -3,8 +3,8 @@ title: "Selected Works"
 permalink: /selected-works/
 gallery:
   
-  - url: "/assets/images/awlo/[2025]bery_at_home.png"
-    image_path: "/assets/images/awlo/[2025]bery_at_home.png"
+  - url: "/assets/images/awlo/[2025]bery_at_home.jpeg"
+    image_path: "/assets/images/awlo/[2025]bery_at_home.jpeg"
     alt: "Bery at Home"
     title: "Bery at Home <br> 
             30inx20in <br>

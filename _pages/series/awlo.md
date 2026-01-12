@@ -4,14 +4,26 @@ permalink: /series/awlo/
 date: 2025-09-12
 category: series
 gallery:
-  - url: "/assets/images/awlo/[2025]bery_at_home.png"
-    image_path: "/assets/images/awlo/[2025]bery_at_home.png"
+  - url: "/assets/images/awlo/[2026]relaxing.png"
+    image_path: "/assets/images/awlo/[2026]relaxing.png"
+    alt: "Relaxing"
+    title: "Relaxing <br> 
+            20inx30in <br>
+            2026"
+  - url: "/assets/images/awlo/[2025]grocery_shopping.jpeg"
+    image_path: "/assets/images/awlo/[2025]grocery_shopping.jpeg"
+    alt: "Grocery Shopping"
+    title: "Grocery Shopping <br> 
+            20inx30in <br>
+            2025"
+  - url: "/assets/images/awlo/[2025]bery_at_home.jpeg"
+    image_path: "/assets/images/awlo/[2025]bery_at_home.jpeg"
     alt: "Bery at Home"
     title: "Bery at Home <br> 
             30inx20in <br>
             2025"
-  - url: "/assets/images/awlo/[2025]the_smoker.png"
-    image_path: "/assets/images/awlo/[2025]the_smoker.png"
+  - url: "/assets/images/awlo/[2025]the_smoker.jpeg"
+    image_path: "/assets/images/awlo/[2025]the_smoker.jpeg"
     alt: "The Smoker"
     title: "The Smoker <br> 
             20inx30in <br>
