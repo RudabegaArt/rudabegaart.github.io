@@ -4,6 +4,18 @@ permalink: /series/still-lifes/
 date: 2025-09-12
 category: series
 gallery:
+  - url: "/assets/images/still-lifes/[2026]No10.jpg"
+    image_path: "/assets/images/still-lifes/[2026]No10.jpg"
+    alt: "No. 10"
+    title: "No. 10 <br> 
+            12inx16in <br>
+            2026"
+  - url: "/assets/images/still-lifes/[2026]No9.jpg"
+    image_path: "/assets/images/still-lifes/[2026]No9.jpg"
+    alt: "No. 9"
+    title: "No. 9 <br> 
+            12inx9in <br>
+            2026"
   - url: "/assets/images/still-lifes/[2025]No8.png"
     image_path: "/assets/images/still-lifes/[2025]No8.png"
     alt: "No. 8"
