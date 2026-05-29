@@ -1,7 +1,7 @@
 ---
 title: "Maine Moments (2025)"
 permalink: /series/maine-moments/
-date: 2025-09-12
+date: 2026-05-29
 category: series
 gallery:
   - url: "/assets/images/maine-moments/[2025]Buoys_and_Fruit.jpg"

@@ -1,9 +1,15 @@
 ---
-title: "Another World Like Ours (2025-)"
+title: "Another World Like Ours (2025-2026)"
 permalink: /series/awlo/
-date: 2025-09-12
+date: 2026-05-29
 category: series
 gallery:
+  - url: "/assets/images/awlo/[2026]subway_car.jpg"
+    image_path: "/assets/images/awlo/[2026]subway_car.jpg"
+    alt: "Subway Car"
+    title: "Subway Car <br> 
+            20inx30in <br>
+            2026"
   - url: "/assets/images/awlo/[2026]alone_in_the_end.jpeg"
     image_path: "/assets/images/awlo/[2026]alone_in_the_end.jpeg"
     alt: "Alone in the End"

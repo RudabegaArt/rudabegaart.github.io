@@ -8,13 +8,11 @@ header:
 ---
 
 # Biography
-Chris Nalty is a New York based oil painter. He began showing in 2025 in Addison, Maine and New York City.
+Chris Nalty is a New York based oil and acrylic painter. He began showing professionally in 2025. Nalty produces a wide variety of expressive paintings that draw upon his time living and travelling across the United States. His paintings explore all aspects of the human experience, real and imagined. Even through varied subjects his works share a consistent style featuring strong light and shadow paired with vibrant colors.
 
-His surreal works focus on creating allegorical depictions of our world. They feature strange creatures and robed figures in familiar settings. These settings are often mundane scenes that would appear normal if not for the unusual figures. This juxtaposition invites the viewer to reflect on themselves
+His work looks to digest all aspects of life: beautiful landscapes, city life, imagined realms, and the horrors of the world. Nalty’s work shows what he feels are pressing or important parts of life from all ranges; He paints the places he appreciates to the events of the world that disturb him.
 
-Nalty’s still lifes take on an explorative lens. He uses them to experiment on every aspect of painting: brushwork, composition, abstraction, sizing and surface. His works maintain a recognizable body through the strong separation of light and shadow that drive his compositions.
-
-Chris has appeared in group shows including “Baker National”, Baldwin City 2026, “Predominately Black”, New York 2025, and “Schoodic Schoolhouse Annual Show”, Addison 2025.
+Chris has appeared in group shows including “Baker National”, Baldwin City 2026, “Predominately Black”, New York 2025, and “Cape Split Schoolhouse Annual Show”, Addison 2025.
 
 # CV
 
@@ -23,7 +21,8 @@ Chris has appeared in group shows including “Baker National”, Baldwin City 2
 Born 1995 in Columbia, Maryland  
 Resides and works in New York City and Addision, Maine
 ###### Selected Exhibitions
-<small> 2026, *Baker National*, Baldwin City, Kansas   
+<small> 2026, *AVA Juried*, Lebanon, New Hampshire   
+2026, *Baker National*, Baldwin City, Kansas   
 2025, *Cape Split Schoolhouse Art Show*, Addison, Maine  
 2025, *Predominately Black*, New York, New York
 ###### Collections

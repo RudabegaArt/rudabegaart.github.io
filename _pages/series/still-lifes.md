@@ -1,7 +1,7 @@
 ---
-title: "Still Lifes (Ongoing)"
+title: "Still Lifes (2025-2026)"
 permalink: /series/still-lifes/
-date: 2025-09-12
+date: 2026-05-29
 category: series
 gallery:
   - url: "/assets/images/still-lifes/[2026]No10.jpg"
