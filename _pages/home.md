@@ -21,7 +21,8 @@ Chris has appeared in group shows including “Baker National”, Baldwin City 2
 Born 1995 in Columbia, Maryland  
 Resides and works in New York City and Addision, Maine
 ###### Selected Exhibitions
-<small> 2026, *AVA Juried*, Lebanon, New Hampshire   
+<small> 2026, *Labor of Love*, Addison, Maine   
+2026, *AVA Juried*, Lebanon, New Hampshire   
 2026, *Baker National*, Baldwin City, Kansas   
 2025, *Cape Split Schoolhouse Art Show*, Addison, Maine  
 2025, *Predominately Black*, New York, New York
