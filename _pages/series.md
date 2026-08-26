@@ -4,7 +4,9 @@ layout: categories
 permalink: /series/
 taxonomy: series
 ---
-## [Plein Air and Landscapes (2026 -)](plein-air)
+## [Landscapes (2026 -)](landscapes)
+
+## [Cityscapes (2026 -)](cityscapes)
 
 ## [Surreal (2026 -)](surreal)
 

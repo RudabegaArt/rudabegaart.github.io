@@ -2,52 +2,65 @@
 title: "Selected Works"
 permalink: /selected-works/
 gallery:
-  
+  - url: "/assets/images/landscapes/[2026]buoy_pile.jpg"
+    image_path: "/assets/images/landscapes/[2026]buoy_pile.jpg"
+    alt: "Buoy Pile"
+    title: "Buoy Pile <br> 
+            18inx24in <br>
+            2026"
+  - url: "/assets/images/landscapes/[2026]schoodic_roil.jpg"
+    image_path: "/assets/images/landscapes/[2026]schoodic_roil.jpg"
+    alt: "Schoodic Roil"
+    title: "Schoodic Roil <br> 
+            20inx20in <br>
+            2026"
+  - url: "/assets/images/surreal/[2026]prison_guard.jpg"
+    image_path: "/assets/images/surreal/[2026]prison_guard.jpg"
+    alt: "Prison Guard"
+    title: "Prison Guard <br> 
+            36inx24in <br>
+            2026"
+  - url: "/assets/images/surreal/[2026]bigger_on_the_inside.jpeg"
+    image_path: "/assets/images/surreal/[2026]bigger_on_the_inside.jpeg"
+    alt: "Bigger on the Inside"
+    title: "Bigger on the Inside <br> 
+            10inx20in <br>
+            2026"
   - url: "/assets/images/awlo/[2025]bery_at_home.jpeg"
     image_path: "/assets/images/awlo/[2025]bery_at_home.jpeg"
     alt: "Bery at Home"
     title: "Bery at Home <br> 
             30inx20in <br>
             2025"
-  - url: "/assets/images/still-lifes/[2025]No1.png"
-    image_path: "/assets/images/still-lifes/[2025]No1.png"
-    alt: "No. 1"
-    title: "No. 1 <br> 
-            14inx11in <br>
+  - url: "/assets/images/maine-moments/[2025]Fathers_Shed.jpg"
+    image_path: "/assets/images/maine-moments/[2025]Fathers_Shed.jpg"
+    alt: "Father's Shed"
+    title: "Father's Shed <br>
+            24inx18in <br>
             2025"
-  - url: "/assets/images/[2025]The_Contract.png"
-    image_path: "/assets/images/[2025]The_Contract.png"
-    alt: "The Contract"
-    title: "The Contract <br>
-            12inx16in <br>
-            2025"
-  - url: "/assets/images/maine-moments/[2025]Evening_Driveway.png"
-    image_path: "/assets/images/maine-moments/[2025]Evening_Driveway.png"
-    alt: "Evening Driveway"
-    title: "Evening Driveway <br>
-            12inx16in <br>
-            2025" 
-  - url: "/assets/images/maine-moments/[2025]Buoys_and_Fruit.jpg"
-    image_path: "/assets/images/maine-moments/[2025]Buoys_and_Fruit.jpg"
-    alt: "Buoys and Fruit (Still Life)"
-    title: "Buoys and Fruit <br> 
-            12inx12in <br>
-            2025"
-  - url: "/assets/images/maine-moments/[2025]The_Firepit.png"
-    image_path: "/assets/images/maine-moments/[2025]The_Firepit.png"
-    alt: "The Firepit"
-    title: "The Firepit <br>
-            20inx16in <br>
-            2025"
-      
-  - url: "/assets/images/[2025]Brooklyn_Corner.jpg"
-    image_path: "/assets/images/[2025]Brooklyn_Corner.jpg"
-    alt: "Brooklyn Corner"
-    title: "Brooklyn Corner <br>
-            20inx16in <br>
-            2025"
-
     
 
 ---
-{% include gallery%}
+<div class="my-custom-400-gallery">
+  {% include gallery %}
+</div>
+
+<!-- 2. Target ONLY the thumbnail images inside that specific container -->
+<style>
+  /* Fixes the layout spacing so thumbnails don't overlap */
+  .my-custom-400-gallery {
+    display: grid;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+
+  /* Forces ONLY the thumbnail images into a 400x400 cropped square */
+  .my-custom-400-gallery img {
+    width: 300px !important;
+    height: 300px !important;
+    object-fit: contain !important;
+    object-position: center !important;
+  }
+</style>
+

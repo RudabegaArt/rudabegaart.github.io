@@ -50,4 +50,25 @@ gallery:
                 
 
 ---
-{% include gallery %}
+<div class="my-custom-400-gallery">
+  {% include gallery %}
+</div>
+
+<!-- 2. Target ONLY the thumbnail images inside that specific container -->
+<style>
+  /* Fixes the layout spacing so thumbnails don't overlap */
+  .my-custom-400-gallery {
+    display: grid;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+
+  /* Forces ONLY the thumbnail images into a 400x400 cropped square */
+  .my-custom-400-gallery img {
+    width: 300px !important;
+    height: 300px !important;
+    object-fit: contain !important;
+    object-position: center !important;
+  }
+</style>
