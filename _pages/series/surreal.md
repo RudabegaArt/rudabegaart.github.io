@@ -1,7 +1,7 @@
 ---
 title: "Surreal (2026-)"
 permalink: /series/surreal/
-date: 2026-05-29
+date: 2026-08-26
 category: series
 gallery:
   - url: "/assets/images/surreal/[2026]prison_guard.jpg"

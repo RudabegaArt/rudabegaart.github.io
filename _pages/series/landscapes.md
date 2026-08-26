@@ -1,20 +1,62 @@
 ---
 title: "Landscapes (2026-)"
 permalink: /series/landscapes/
-date: 2026-05-29
+date: 2026-08-26
 category: series
 gallery:
+  - url: "/assets/images/landscapes/[2026]west_pond_cove_small.jpg"
+    image_path: "/assets/images/landscapes/[2026]west_pond_cove_small.jpg"
+    alt: "West Pond Cove"
+    title: "West Pond Cove <br> 
+            8inx10in <br>
+            2026"
+  - url: "/assets/images/landscapes/[2026]great_head_small.jpg"
+    image_path: "/assets/images/landscapes/[2026]great_head_small.jpg"
+    alt: "Great Head"
+    title: "Great Head <br> 
+            20inx30in <br>
+            2026"
   - url: "/assets/images/landscapes/[2026]beehive_lagoon.jpg"
     image_path: "/assets/images/landscapes/[2026]beehive_lagoon.jpg"
     alt: "Beehive Lagoon"
     title: "Beehive Lagoon <br> 
             18inx24in <br>
             2026"
+  - url: "/assets/images/landscapes/[2026]view_of_grindstone_point_small.jpg"
+    image_path: "/assets/images/landscapes/[2026]view_of_grindstone_point_small.jpg"
+    alt: "View of Grindstone Point"
+    title: "View of Grindstone Point <br> 
+            9inx12in <br>
+            2026"
+  - url: "/assets/images/landscapes/[2026]natures_wrath_small.jpg"
+    image_path: "/assets/images/landscapes/[2026]natures_wrath_small.jpg"
+    alt: "Nature's Wrath"
+    title: "Nature's Wrath <br> 
+            8inx6in <br>
+            2026"
+  - url: "/assets/images/landscapes/[2026]biddeford_beach_small.jpg"
+    image_path: "/assets/images/landscapes/[2026]biddeford_beach_small.jpg"
+    alt: "Biddeford Beach"
+    title: "Biddeford Beach <br> 
+            6inx8in <br>
+            2026"
+  - url: "/assets/images/landscapes/[2026]roque_bluffs_small.jpg"
+    image_path: "/assets/images/landscapes/[2026]roque_bluffs_small.jpg"
+    alt: "Roque Bluffs"
+    title: "Roque Bluffs <br> 
+            14inx18in <br>
+            2026"
   - url: "/assets/images/landscapes/[2026]buoy_pile.jpg"
     image_path: "/assets/images/landscapes/[2026]buoy_pile.jpg"
     alt: "Buoy Pile"
     title: "Buoy Pile <br> 
             18inx24in <br>
+            2026"
+  - url: "/assets/images/landscapes/[2026]lupine_patch_small.jpg"
+    image_path: "/assets/images/landscapes/[2026]lupine_patch_small.jpg"
+    alt: "Lupine Patch"
+    title: "Lupine Patch <br> 
+            9inx12in <br>
             2026"
   - url: "/assets/images/landscapes/[2026]ravens_nest.jpg"
     image_path: "/assets/images/landscapes/[2026]ravens_nest.jpg"

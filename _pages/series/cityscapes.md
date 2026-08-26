@@ -1,9 +1,15 @@
 ---
 title: "cityscapes (2026-)"
 permalink: /series/cityscapes/
-date: 2026-05-29
+date: 2026-08-26
 category: series
 gallery:
+  - url: "/assets/images/cityscapes/[2026]empire_state_building_from_flatiron_small.jpg"
+    image_path: "/assets/images/cityscapes/[2026]empire_state_building_from_flatiron_small.jpg"
+    alt: "Empire State Building from Flatiron"
+    title: "Empire State Building from Flatiron <br> 
+            30inx24in <br>
+            2026"
   - url: "/assets/images/cityscapes/[2026]st_georges_church.jpg"
     image_path: "/assets/images/cityscapes/[2026]st_georges_church.jpg"
     alt: "St. George's Church"
