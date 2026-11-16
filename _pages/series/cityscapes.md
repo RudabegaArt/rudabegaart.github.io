@@ -1,5 +1,5 @@
 ---
-title: "cityscapes (2026-)"
+title: "Cityscapes (2026-)"
 permalink: /series/cityscapes/
 date: 2026-08-26
 category: series

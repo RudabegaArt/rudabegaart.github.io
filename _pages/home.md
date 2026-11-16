@@ -21,11 +21,12 @@ Chris has appeared in group shows including “Baker National”, Baldwin City 2
 Born 1995 in Columbia, Maryland  
 Resides and works in New York City and Addision, Maine
 ###### Selected Exhibitions
-<small> 2026, *Labor of Love*, Addison, Maine   
-2026, *AVA Juried*, Lebanon, New Hampshire   
-2026, *Baker National*, Baldwin City, Kansas   
-2025, *Cape Split Schoolhouse Art Show*, Addison, Maine  
-2025, *Predominately Black*, New York, New York
+<small> 2026, *Sea to Shining Sea*, Albrecht-Kemper Museum of Art, St. Joseph, Missouri   
+2026, *Labor of Love*, Capesplit Schoolhouse, Addison, Maine   
+2026, *AVA Biennial Juried*, AVA Gallery and Arts Center, Lebanon, New Hampshire   
+2026, *Baker National*, Holt-Russell Gallery, Baldwin City, Kansas   
+2025, *Labor of Love*, Capesplit Schoolhouse, Addison, Maine  
+2025, *Predominately Black*, Blick Arts, New York, New York
 ###### Collections
 <small>Chris Nalty features in various private collections across the United States
 
